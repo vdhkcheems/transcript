@@ -1,0 +1,40 @@
+OUTPUT FOR SENTENCE_TRANSFORMER MODEL 
+
+Loaded 240 transcript entries, created 27 chunks
+Loading sentence transformer model: BAAI/bge-base-en-v1.5
+Encoding text chunks...
+Sentence transformer initialization complete!
+Transcript loaded, please ask your question (press 8 for exit):
+
+Question: How machine learning differs from deep learning
+
+[08:08 - 09:25], The easiest way to understand the difference between the machine learning and deep learning is to know that deep learning is machine learning. More specifically, it is the next evolution of machine learning. Let's take a few important parameter and compare machine learning with deep learning. So starting with data dependencies. The most important difference between deep learning and machine learning is its performance as the volume of the data gets increased from the below graph. You can see that when the size of the data is small, deep learning algorithm doesn't perform that well, but why? Well, this is because deep learning algorithm needs a large amount of data to understand it perfectly on the other hand, the machine learning algorithm can easily work with smaller data set fine. Next comes the hardware dependencies. Deep learning algorithms are heavily dependent on high end machines, while the machine learning algorithm can work on low end machines as well. This is because the requirement of deep learning algorithm include GPUs, which is an integral part of its working. The deep learning algorithm requires GPUs as they do a large amount of matrix multiplication operations and these operations can only be efficiently optimized using a GPU as it is built for this purpose only. But third parameter will be feature engineering.
+(Confidence: 0.844)
+
+Question: when was the term artificial intelligence coined
+
+[00:44 - 00:48], The term artificial intelligence was first coined in the year 1956.
+(Confidence: 0.896)
+
+Question: 8
+Goodbye!
+
+OUTPUT FOR TF-IDF 
+
+Loaded 240 transcript entries, created 27 chunks
+Building TF-IDF vectors...
+TF-IDF initialization complete!
+Transcript loaded, please ask your question (press 8 for exit):
+
+Question: how are features handled in the case of machine learning
+
+[09:25 - 10:22], Well, feature engineering is a process of putting the domain knowledge to reduce the complexity of the data and make patterns more visible to learning algorithms. This process is difficult and expensive in terms of time and expertise. In case of machine learning, most of the features are needed to be identified by an expert and then hand coded as per the domain and the data type. For example, the features can be a pixel value, shapes, texture, position, orientation or anything. Fine, the performance of most of the machine learning algorithm depends on how accurately the features are identified and extracted. Whereas in case of deep learning algorithms, it try to learn high level features from the data. This is a very distinctive part of deep learning, which makes it way ahead of traditional machine learning. Deep learning reduces the task of developing new feature extractor for every problem. Like in the case of CNN algorithm, it first try to learn the low level features of the
+(Confidence: 0.352)
+
+Question: how much accumulated data will we have by 2020
+
+[00:48 - 02:17], The concept is pretty old but it has gained its popularity recently. But why? Well, the reason is earlier we had very small amount of data. The data we had was not enough to predict the accurate result. But now there's a tremendous increase in the amount of data. Statistics suggest that by 2020 the accumulated volume of data will increase from 4.4 zitabytes to roughly around 44 zitabytes or 44 trillion GB of data. Along with such enormous amount of data, now we have more advanced algorithm. And high in computing power and storage that can deal with such large amount of data. As a result, it is expected that 70% of enterprise will implement AI over the next 12 months, which is up from 40% in 2016 and 51% in 2017. Just for your understanding, what is AI? Well, it's nothing but a technique that enables the machine to act like humans by replicating the behavior and nature. With AI, it is possible for machines to learn from the experience. The machines adjust their responses based on new input thereby performing human-like tasks. Artificial intelligence can be trained to accomplish specific tasks by processing large amount of data and recognizing pattern in them. You can consider that building an artificial intelligence is like building a church. The first church took generations to finish, so most of the workers who were working in
+(Confidence: 0.206)
+
+Question: 8
+Goodbye!
