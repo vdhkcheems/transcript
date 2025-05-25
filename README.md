@@ -51,6 +51,10 @@ Try asking questions like:
 - "How are ML and AI related?"
 - "Why is AI popular now?"
 
+## Output Screenshort
+![Screenshot_20250525_195526](https://github.com/user-attachments/assets/078c05b5-15dd-4a5d-9ba8-b4a71baa8af4)
+
+
 ## Project Structure
 
 ```
